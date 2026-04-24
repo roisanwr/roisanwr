@@ -9,9 +9,9 @@
 ---
 
 ### 👨🏻‍💻 About Me
-I am a Full-Stack Developer and an Automotive Industry Information Systems undergraduate at Politeknik STMI Jakarta. I have a strong passion for architecting production-scale software, digitizing industrial workflows (manufacturing tracking), and integrating Machine Learning models into real-world applications.
+I am a Full-Stack Developer and an Automotive Industry Information Systems undergraduate at Politeknik STMI Jakarta. I have a strong passion for architecting production-scale software, digitizing industrial workflows, and integrating Machine Learning models into real-world applications.
 
-- 💼 Currently working as a **Full-Stack Developer Intern** at **PT Mada Wikri Tunggal**, architecting centralized tracking systems to digitize legacy production workflows.
+- 💼 Currently working as a **Full-Stack Developer Intern** at a **Confidential Manufacturing Enterprise**, architecting centralized tracking systems to modernize production workflows.
 - 🚀 Highly focused on modern web development (*Next.js, TypeScript, Laravel*) and predictive modeling (*LSTM, ANN, Computer Vision*).
 
 ---
@@ -37,16 +37,16 @@ I am a Full-Stack Developer and an Automotive Industry Information Systems under
 
 ### 💼 Experience
 
-* **PT Mada Wikri Tunggal** — *Full-Stack Developer Intern* (Feb 2026 - Present)
-  Architected a custom full-stack centralized tracking system to digitize legacy paper-based production workflows and managed cross-functional IT operations.
+* **Confidential Manufacturing Enterprise** — *Full-Stack Developer Intern* (Feb 2026 - Present)
+  Architected a custom full-stack centralized tracking system to digitize legacy production workflows and managed cross-functional IT operations.
 
 ---
 
 ### 📂 Featured Projects
 
 * **[MyKanz](https://github.com/roisanwr/mykanz)**: A full-stack personal finance and portfolio tracker with real-time asset pricing integration and dynamic net worth visualizations (Next.js, TypeScript, Prisma, Docker).
-* **Bitmove**: A gamified fitness and mission platform featuring daily automated cron-job resets and dynamic tier-based user progression (Next.js, TypeScript, Prisma).
-* **Digitalization Manufacturing Production**: A centralized production tracking system featuring a real-time OEE (Overall Equipment Effectiveness) dashboard, live downtime logs, and QR-based digital signatures (Laravel, MySQL).
+* **BitMove**: A gamified fitness and mission platform featuring daily automated cron-job resets and dynamic tier-based user progression (Next.js, TypeScript, Prisma).
+* **DigiMVP (Manufacturing Execution System)**: A centralized production tracking system featuring a real-time OEE (Overall Equipment Effectiveness) dashboard, live downtime logs, and QR-based digital signatures (Laravel, MySQL).
 * **[Asset Price Prediction](https://github.com/roisanwr/Asset-Price-Prediction-using-LSTM)**: Time-series forecasting models utilizing **ARIMA and LSTM** networks to predict daily stock returns (Python).
 * **[Real-Time Computer Vision](https://github.com/roisanwr/Deteksi-Ngantuk-MediaPine)**: Engineered and deployed models to accurately detect facial drowsiness and classify gender using live camera feeds.
 
