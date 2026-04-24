@@ -1,56 +1,59 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Taqiyuddin Rois Anwar 👋</h1>
-  <p align="center">
-    <b>Full-Stack Developer | Information Systems | AI & ML Enthusiast</b>
-  </p>
+  <h1>Hi there, I'm Taqiyuddin Rois Anwar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <a href="https://github.com/roisanwr">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Information+Systems+Undergrad;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
 ### 👨🏻‍💻 About Me
-Saya adalah seorang Full-Stack Developer dan mahasiswa Sistem Informasi Industri Otomotif di Politeknik STMI Jakarta. Saya memiliki ketertarikan kuat dalam merancang arsitektur perangkat lunak skala produksi, mendigitalisasi alur kerja industri (*manufacturing tracking*), dan mengintegrasikan model *Machine Learning* ke dalam aplikasi nyata.
+I am a Full-Stack Developer and an Automotive Industry Information Systems undergraduate at Politeknik STMI Jakarta. I have a strong passion for architecting production-scale software, digitizing industrial workflows (manufacturing tracking), and integrating Machine Learning models into real-world applications.
 
-- 💼 Saat ini sedang magang sebagai **Full-Stack Developer** di **PT Mada Wikri Tunggal**, mendigitalisasi sistem produksi manufaktur konvensional.
-- 🚀 Fokus pada pengembangan web modern (*Next.js, TS, Laravel*) dan pemodelan prediktif (*LSTM, ANN, Computer Vision*).
+- 💼 Currently working as a **Full-Stack Developer Intern** at **PT Mada Wikri Tunggal**, architecting centralized tracking systems to digitize legacy production workflows.
+- 🚀 Highly focused on modern web development (*Next.js, TypeScript, Laravel*) and predictive modeling (*LSTM, ANN, Computer Vision*).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** <br>
-<img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=#3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=#F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-white?style=flat-square&logo=php&logoColor=#777BB4" />
-<img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=#3776AB" />
-<img src="https://img.shields.io/badge/SQL-white?style=flat-square&logo=postgresql&logoColor=#4169E1" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,php,python,nextjs,laravel,prisma,tailwind,postgres,mysql,docker,git,linux&perline=7" />
+  </a>
+</div>
 
-**Frameworks & Libraries:** <br>
-<img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=next.js&logoColor=black" />
-<img src="https://img.shields.io/badge/Laravel-white?style=flat-square&logo=laravel&logoColor=#FF2D20" />
-<img src="https://img.shields.io/badge/Prisma_ORM-white?style=flat-square&logo=prisma&logoColor=#2D3748" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-white?style=flat-square&logo=tailwindcss&logoColor=#06B6D4" />
+---
 
-**Database & DevOps:** <br>
-<img src="https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=#4169E1" />
-<img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=#4479A1" />
-<img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=#2496ED" />
+### 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roisanwr&show_icons=true&theme=light&hide_border=false&border_color=e4e4e7&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roisanwr&theme=light&hide_border=false&border=e4e4e7&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=333333&currStreakLabel=333333&sideLabels=333333&dates=333333" height="150" alt="GitHub Streak" />
+</div>
 
+---
 
+### 💼 Experience
+
+* **PT Mada Wikri Tunggal** — *Full-Stack Developer Intern* (Feb 2026 - Present)
+  Architected a custom full-stack centralized tracking system to digitize legacy paper-based production workflows and managed cross-functional IT operations.
 
 ---
 
 ### 📂 Featured Projects
 
-* **[MyKanz](https://github.com/roisanwr/mykanz)**: Platform manajemen keuangan pribadi *full-stack* dengan integrasi harga aset *real-time* dan visualisasi *net worth* dinamis (Next.js, TypeScript, Prisma, Docker, NextAuth).
-* **Bitmove**: Platform *workout tracking* dengan gamifikasi, eksekusi *cron jobs* untuk reset misi harian, dan sistem *tier-rewards* dinamis (Next.js, TypeScript, Prisma).
-* **Digitalization Manufacturing Production**: Sistem pelacakan produksi terpusat dengan *dashboard* OEE (*Overall Equipment Effectiveness*) *real-time*, label otomatis, dan *workflow digital signature* (Laravel, MySQL).
-* **[Asset Price Prediction](https://github.com/roisanwr/Asset-Price-Prediction-using-LSTM)**: Model prakiraan berbasis deret waktu menggunakan **ARIMA & LSTM** untuk memprediksi harga aset / saham harian.
-* **[Deteksi Ngantuk MediaPine](https://github.com/roisanwr/Deteksi-Ngantuk-MediaPine)**: Sistem Visi Komputer (*Computer Vision*) waktu nyata untuk mendeteksi rasa kantuk pada wajah menggunakan feed kamera langsung.
-* **[DN Auto](https://github.com/roisanwr/dnauto)**: Platform E-Commerce yang terintegrasi dengan sistem manajemen inventaris gudang yang terpusat.
+* **[MyKanz](https://github.com/roisanwr/mykanz)**: A full-stack personal finance and portfolio tracker with real-time asset pricing integration and dynamic net worth visualizations (Next.js, TypeScript, Prisma, Docker).
+* **Bitmove**: A gamified fitness and mission platform featuring daily automated cron-job resets and dynamic tier-based user progression (Next.js, TypeScript, Prisma).
+* **Digitalization Manufacturing Production**: A centralized production tracking system featuring a real-time OEE (Overall Equipment Effectiveness) dashboard, live downtime logs, and QR-based digital signatures (Laravel, MySQL).
+* **[Asset Price Prediction](https://github.com/roisanwr/Asset-Price-Prediction-using-LSTM)**: Time-series forecasting models utilizing **ARIMA and LSTM** networks to predict daily stock returns (Python).
+* **[Real-Time Computer Vision](https://github.com/roisanwr/Deteksi-Ngantuk-MediaPine)**: Engineered and deployed models to accurately detect facial drowsiness and classify gender using live camera feeds.
 
 ---
 
 ### 📫 Let's Connect
+
 <a href="mailto:roisanwar44@gmail.com"><img src="https://img.shields.io/badge/roisanwar44@gmail.com-white?style=flat-square&logo=gmail&logoColor=#D14836" /></a>
 <a href="https://linkedin.com/in/roisanwar/"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=#0077B5" /></a>
+<a href="https://instagram.com/roisanwr"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=#E4405F" /></a>
