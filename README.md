@@ -20,7 +20,7 @@ I am a Full-Stack Developer and an Automotive Industry Information Systems under
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,php,python,nextjs,laravel,prisma,tailwind,postgres,mysql,docker,git,supabase,vercel,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,php,python,nextjs,laravel,prisma,tailwind,postgres,mysql,docker,git,supabase,vercel,linux&perline=8" />
   </a>
 </div>
 
