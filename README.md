@@ -20,7 +20,7 @@ I am a Full-Stack Developer and an Automotive Industry Information Systems under
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,php,python,nextjs,laravel,prisma,tailwind,postgres,mysql,docker,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,php,python,nextjs,laravel,prisma,tailwind,postgres,mysql,docker,git,supabase,linux&perline=7" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@ I am a Full-Stack Developer and an Automotive Industry Information Systems under
 ### 📂 Featured Projects
 
 * **[MyKanz](https://github.com/roisanwr/mykanz)**: A full-stack personal finance and portfolio tracker with real-time asset pricing integration and dynamic net worth visualizations (Next.js, TypeScript, Prisma, Docker).
-* **BitMove**: A gamified fitness and mission platform featuring daily automated cron-job resets and dynamic tier-based user progression (Next.js, TypeScript, Prisma).
+* **[Bitmove](https://github.com/roisanwr/bitmove)**: A gamified fitness and mission platform featuring daily automated cron-job resets and dynamic tier-based user progression (Next.js, TypeScript, Prisma).
 * **DigiMVP (Manufacturing Execution System)**: A centralized production tracking system featuring a real-time OEE (Overall Equipment Effectiveness) dashboard, live downtime logs, and QR-based digital signatures (Laravel, MySQL).
 * **[Asset Price Prediction](https://github.com/roisanwr/Asset-Price-Prediction-using-LSTM)**: Time-series forecasting models utilizing **ARIMA and LSTM** networks to predict daily stock returns (Python).
 * **[Real-Time Computer Vision](https://github.com/roisanwr/Deteksi-Ngantuk-MediaPine)**: Engineered and deployed models to accurately detect facial drowsiness and classify gender using live camera feeds.
