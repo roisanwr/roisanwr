@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Taqiyuddin Rois Anwar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi there, I'm Taqi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <a href="https://github.com/roisanwr">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Information+Systems+Undergrad;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
