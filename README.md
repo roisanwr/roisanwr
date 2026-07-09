@@ -11,8 +11,9 @@
 ### 👨🏻‍💻 About Me
 I am a Full-Stack Developer and an Automotive Industry Information Systems undergraduate at Politeknik STMI Jakarta. I have a strong passion for architecting production-scale software, digitizing industrial workflows, and integrating Machine Learning models into real-world applications.
 
-- 💼 Currently working as a **Full-Stack Developer Intern** at a **Confidential Manufacturing Enterprise**, architecting centralized tracking systems to modernize production workflows.
+- 💼 Currently working as a **Full-Stack Developer Intern** at a **Manufacturing Enterprise**, architecting centralized tracking systems to modernize production workflows.
 - 🚀 Highly focused on modern web development (*Next.js, TypeScript, Laravel*) and predictive modeling (*LSTM, ANN, Computer Vision*).
+- 🚀 Currently deep dive into local LLM & Multi agent orchestration
 
 ---
 
